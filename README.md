@@ -1,4 +1,2 @@
-# Public-Docs
-Publicly available documentation.
-
-Testing...
+# Docs
+Shawn's documents.
